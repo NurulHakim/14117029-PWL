@@ -23,5 +23,18 @@ nav li a{
 section{
     margin-left: 25%;
     word-break: break-word;
-    
+    padding-top: 2rem;
+}
+
+section h1{
+    font-family: 'Montserrat';
+    font-size: 32px;
+}
+
+section h3{
+    font-family: 'Merriweather';
+}
+
+section p{
+    font-family: 'Merriweather';
 }
